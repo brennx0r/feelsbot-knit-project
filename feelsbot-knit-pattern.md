@@ -171,17 +171,19 @@ CO 18 using TEA (long-tail method)
 
 __rows 1 - 11:__ Work as stockinette stitch: P odd numbered rows and K even numbered rows.
 
-__row 13:__ K8 TEA, K2 YEL, K8 TEA
+__row 12:__ K8 TEA, K2 YEL, K8 TEA
 
-__row 14:__ P8 TEA, P2 YEL, P8 TEA
+__row 13:__ P8 TEA, P2 YEL, P8 TEA
 
-__row 15:__ K8 TEA, K2 YEL, K8 TEA
+__row 14:__ K6 TEA, K6 YEL, K6 TEA
+
+__row 15:__ P6 TEA, P6 YEL, P6 TEA
 
 __row 16:__ K6 TEA, K6 YEL, K6 TEA
 
-__row 17:__ P6 TEA, P6 YEL, P6 TEA
+__row 17:__ K4 TEA, K8 YEL, K4 TEA
 
-__row 18:__ K6 TEA, K6 YEL, K6 TEA
+__row 18:__ P4 TEA, P8 YEL, P4 TEA
 
 __row 19:__ K4 TEA, K8 YEL, K4 TEA
 
@@ -191,25 +193,13 @@ __row 21:__ K4 TEA, K8 YEL, K4 TEA
 
 __row 22:__ P4 TEA, P8 YEL, P4 TEA
 
-__row 23:__ K4 TEA, K8 YEL, K4 TEA
+__row 23:__ K6 TEA, K2 YEL, K2 TEA, K2 YEL, K6 TEA
 
-__row 24:__ P4 TEA, P8 YEL, P4 TEA
+__row 24:__ P6 TEA, P2 TEA, P2 TEA, P2 YEL, P6 TEA
 
 __row 25:__ K6 TEA, K2 YEL, K2 TEA, K2 YEL, K6 TEA
 
-__row 26:__ P6 TEA, P2 TEA, P2 TEA, P2 YEL, P6 TEA
-
-__row 27:__ K6 TEA, K2 YEL, K2 TEA, K2 YEL, K6 TEA
-
-__row 28:__ P18 TEA
-
-__row 29:__ K18 TEA
-
-__row 30:__ P18 TEA
-
-__row 31:__ K18 TEA
-
-__row 32:__ P18 TEA
+__rows 26 - 30:__ Work as stockinette, starting with P row.
 
 Bind off
 
