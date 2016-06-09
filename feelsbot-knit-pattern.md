@@ -10,6 +10,11 @@ One hank each of the following Cascade 220 colors:
 * YEL:   yellow
 * PUR: purple
 
+Or Plymouth Yarn Galway Worsted:
+
+* TEA: 131 Aegean Sea
+* YEL: 179 Gold
+
 1 set straight or circular knitting needles, US8
 
 1 set double-pointed (dpn) needles, US8
