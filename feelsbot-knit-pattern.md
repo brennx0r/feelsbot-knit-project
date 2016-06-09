@@ -84,33 +84,33 @@ __row 21:__ P16 DRK
 __row 22:__ cast off!
 
 
-## Head - Sides
+## Head - Sides (x2)
 
-For this, we'll use the heathered teal color (TEA) only.
+The sides and back of the head are knit in garter stitch using the heathered teal color only.
 
 We'll need two finished pieces of the below:
 
-__row 1:__ CO 12
+CO 12 TEA.
 
-__row 2 - 12:__ K12
+__row 1 - 11:__ K12
 
-__row 13:__ SSK, K8, K2TOG
+__row 12:__ SSK, K8, K2TOG
 
-__row 14:__ K10
+__row 13:__ K10
 
-__row 15:__ SSK, K6, K2TOG
+__row 14:__ SSK, K6, K2TOG
 
-__row 16:__ K8
+__row 15:__ K8
 
-__row 17:__ SSK, K4, K2TOG
+__row 16:__ SSK, K4, K2TOG
 
-__row 18:__ K6
+__row 17:__ K6
 
-__row 19:__ SSK, K2, K2TOG
+__row 18:__ SSK, K2, K2TOG
 
-__row 20:__ K4
+__row 19:__ K4
 
-__row 21:__ cast off!
+Bind off.
 
 
 
@@ -118,11 +118,11 @@ __row 21:__ cast off!
 
 For this, we'll use the heathered teal color (TEA) only.
 
-__row 1:__ CO 16
+CO 16
 
-__row 2 - 31:__ K till end of row
+K 30 rows (garter stitch)
 
-__row 32:__ cast off!
+Bind off
 
 
 ## Neck
