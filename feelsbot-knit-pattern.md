@@ -167,9 +167,9 @@ __row 14:__ cast off!
 
 ## Body - Front
 
-__row 1:__ CO 18 using TEA
+CO 18 using TEA (long-tail method)
 
-__rows 2 - 12:__ Work as stockinette stitch (K for whole row, then P for whole row, etc.)
+__rows 1 - 11:__ Work as stockinette stitch: P odd numbered rows and K even numbered rows.
 
 __row 13:__ K8 TEA, K2 YEL, K8 TEA
 
@@ -211,7 +211,7 @@ __row 31:__ K18 TEA
 
 __row 32:__ P18 TEA
 
-__row 33:__ cast off!
+Bind off
 
 
 
