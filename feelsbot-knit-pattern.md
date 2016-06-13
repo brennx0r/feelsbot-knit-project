@@ -215,7 +215,7 @@ We'll need two finished pieces of the following:
 
 CO 18
 
-__row 1 - 31:__ Work up as stockenette.
+__row 1 - 31:__ Work up as stockinette.
 
 Cast off!
 
