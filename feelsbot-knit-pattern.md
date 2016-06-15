@@ -10,6 +10,13 @@ One hank each of the following Cascade 220 colors:
 * YEL:   yellow
 * PUR: purple
 
+Or Plymouth Yarn Galway Worsted:
+
+* DRK: TBD
+* TEA: 131 Aegean Sea
+* YEL: 179 Gold
+* PUR: TBD
+
 1 set straight or circular knitting needles, US8
 
 1 set double-pointed (dpn) needles, US8
@@ -34,49 +41,49 @@ Intarsia:  http://www.knittinghelp.com/video/play/intarsia-color-knitting
 
 Pick the method that works the best for you. <3
 
-__row 1:__ CO 16 using DRK
+CO 16 using DRK
 
-__row 2:__ K1 DRK, K14 PUR, K1 DRK
+__row 1:__ K1 DRK, K14 PUR, K1 DRK
 
-__row 3:__ P1 DRK, P14 PUR, P1 DRK
+__row 2:__ P1 DRK, P14 PUR, P1 DRK
 
-__row 4:__ K1 DRK, K14 PUR, K1 DRK
+__row 3:__ K1 DRK, K14 PUR, K1 DRK
 
-__row 5:__ P1 DRK, P4 PUR, P6 YEL, P4 PUR, P1 DRK   
+__row 4:__ P1 DRK, P4 PUR, P6 YEL, P4 PUR, P1 DRK   
 
-__row 6:__ K1 DRK, K4 PUR, K6 YEL, K4 PUR, K1 DRK
+__row 5:__ K1 DRK, K4 PUR, K6 YEL, K4 PUR, K1 DRK
 
-__row 7:__ P1 DRK, P4 PUR, P6 YEL, P4 PUR, P1 DRK
+__row 6:__ P1 DRK, P4 PUR, P6 YEL, P4 PUR, P1 DRK
 
-__row 8:__ K1 DRK, K2 PUR, K2 YEL, K6 PUR, K2 YEL, K2 PUR, K1 DRK
+__row 7:__ K1 DRK, K2 PUR, K2 YEL, K6 PUR, K2 YEL, K2 PUR, K1 DRK
 
-__row 9:__ P1 DRK, P2 PUR, P2 YEL, P6 PUR, P2 YEL, P2 PUR, P1 DRK
+__row 8:__ P1 DRK, P2 PUR, P2 YEL, P6 PUR, P2 YEL, P2 PUR, P1 DRK
 
-__row 10:__ K1 DRK, K2 PUR, K2 YEL, K6 PUR, K2 YEL, K2 PUR, K1 DRK
+__row 9:__ K1 DRK, K2 PUR, K2 YEL, K6 PUR, K2 YEL, K2 PUR, K1 DRK
 
-__row 11:__ P1 DRK, P14 PUR, P1 DRK
+__row 10:__ P1 DRK, P14 PUR, P1 DRK
 
-__row 12:__ K1 DRK, K14 PUR, K1 DRK
+__row 11:__ K1 DRK, K14 PUR, K1 DRK
 
-__row 13:__ P1 DRK, P2 PUR, P4 YEL, P2 PUR, P4 YEL, P2 PUR, P1 DRK
+__row 12:__ P1 DRK, P2 PUR, P4 YEL, P2 PUR, P4 YEL, P2 PUR, P1 DRK
 
-__row 14:__ K1 DRK, K2 PUR, K4 YEL, K2 PUR, K4 YEL, K2 PUR, K1 DRK
+__row 13:__ K1 DRK, K2 PUR, K4 YEL, K2 PUR, K4 YEL, K2 PUR, K1 DRK
 
-__row 15:__ P1 DRK, P2 PUR, P4 YEL, P2 PUR, P4 YEL, P2 PUR, P1 DRK
+__row 14:__ P1 DRK, P2 PUR, P4 YEL, P2 PUR, P4 YEL, P2 PUR, P1 DRK
 
-__row 16:__ K1 DRK, K2 PUR, K4 YEL, K2 PUR, K4 YEL, K2 PUR, K1 DRK
+__row 15:__ K1 DRK, K2 PUR, K4 YEL, K2 PUR, K4 YEL, K2 PUR, K1 DRK
 
-__row 17:__ P1 DRK, P2 PUR, P4 YEL, P2 PUR, P4 YEL, P2 PUR, P1 DRK
+__row 16:__ P1 DRK, P2 PUR, P4 YEL, P2 PUR, P4 YEL, P2 PUR, P1 DRK
 
-__row 18:__ K1 DRK, K2 PUR, K4 YEL, K2 PUR, K4 YEL, K2 PUR, K1 DRK
+__row 17:__ K1 DRK, K2 PUR, K4 YEL, K2 PUR, K4 YEL, K2 PUR, K1 DRK
 
-__row 19:__ P1 DRK, P14 PUR, P1 DRK
+__row 18:__ P1 DRK, P14 PUR, P1 DRK
 
-__row 20:__ K1 DRK, K14 PUR, K1 DRK
+__row 19:__ K1 DRK, K14 PUR, K1 DRK
 
-__row 21:__ P16 DRK
+__row 20:__ P16 DRK
 
-__row 22:__ cast off!
+Cast off!
 
 
 ## Head - Sides
@@ -85,27 +92,27 @@ For this, we'll use the heathered teal color (TEA) only.
 
 We'll need two finished pieces of the below:
 
-__row 1:__ CO 12
+CO 12
 
-__row 2 - 12:__ K12
+__row 1 - 11:__ K12
 
-__row 13:__ SSK, K8, K2TOG
+__row 12:__ SSK, K8, K2TOG
 
-__row 14:__ K10
+__row 13:__ K10
 
-__row 15:__ SSK, K6, K2TOG
+__row 14:__ SSK, K6, K2TOG
 
-__row 16:__ K8
+__row 15:__ K8
 
-__row 17:__ SSK, K4, K2TOG
+__row 16:__ SSK, K4, K2TOG
 
-__row 18:__ K6
+__row 17:__ K6
 
-__row 19:__ SSK, K2, K2TOG
+__row 18:__ SSK, K2, K2TOG
 
-__row 20:__ K4
+__row 19:__ K4
 
-__row 21:__ cast off!
+Cast off!
 
 
 
@@ -113,11 +120,11 @@ __row 21:__ cast off!
 
 For this, we'll use the heathered teal color (TEA) only.
 
-__row 1:__ CO 16
+CO 16
 
-__row 2 - 31:__ K till end of row
+__row 1 - 30:__ K till end of row
 
-__row 32:__ cast off!
+Cast off!
 
 
 ## Neck
@@ -126,11 +133,11 @@ For this, we'll use the heathered dark green color (DRK) only.
 
 We'll need one finished piece of the following:
 
-__row 1:__ Using the dpn needles, CO 9
+Using the dpn needles, CO 9
 
-__rows 2 - 6:__ K in the round
+__rows 1 - 5:__ K in the round
 
-__row 7:__ cast off!
+Cast off!
 
 
 ## Arms
@@ -139,11 +146,11 @@ For this, we'll use the heathered dark green color (DRK) only.
 
 We'll need two finished pieces of the following:
 
-__row 1:__ Using the dpn needles, CO 9
+Using the dpn needles, CO 9
 
-__rows 2 - 22:__ K in the round
+__rows 1 - 21:__ K in the round
 
-__row 23:__ cast off!
+Cast off!
 
 
 ## Hands
@@ -152,53 +159,53 @@ For this, we'll use the heathered teal color (TEA) only.
 
 We'll need two finished pieces of the following:
 
-__row 1:__ Using the dpn needles, CO 9
+Using the dpn needles, CO 9
 
-__rows 2 - 13:__ K in the round
+__rows 1 - 12:__ K in the round
 
-__row 14:__ cast off!
+Cast off!
 
 
 
 ## Body - Front
 
-__row 1:__ CO 18 using TEA
+CO 18 using TEA
 
-__rows 2 - 10:__ Work as stockinette stitch (K for whole row, then P for whole row, etc.)
+__rows 1 - 9:__ Work as stockinette stitch (K for whole row, then P for whole row, etc.)
 
-__row 11:__ P8 TEA, P2 YEL, P8 TEA
+__row 10:__ P8 TEA, P2 YEL, P8 TEA
 
-__row 12:__ K8 TEA, K2 YEL, K8 TEA
+__row 11:__ K8 TEA, K2 YEL, K8 TEA
 
-__row 13:__ P8 TEA, P2 YEL, P8 TEA
+__row 12:__ P8 TEA, P2 YEL, P8 TEA
 
-__row 14:__ K6 TEA, K6 YEL, K6 TEA
+__row 13:__ K6 TEA, K6 YEL, K6 TEA
 
-__row 15:__ P6 TEA, P6 YEL, P6 TEA
+__row 14:__ P6 TEA, P6 YEL, P6 TEA
 
-__row 16:__ K6 TEA, K6 YEL, K6 TEA
+__row 15:__ K6 TEA, K6 YEL, K6 TEA
 
-__row 17:__ P4 TEA, P8 YEL, P4 TEA
+__row 16:__ P4 TEA, P8 YEL, P4 TEA
 
-__row 18:__ K4 TEA, K8 YEL, K4 TEA
+__row 17:__ K4 TEA, K8 YEL, K4 TEA
 
-__row 19:__ P4 TEA, P8 YEL, P4 TEA
+__row 18:__ P4 TEA, P8 YEL, P4 TEA
 
-__row 20:__ K4 TEA, K8 YEL, K4 TEA
+__row 19:__ K4 TEA, K8 YEL, K4 TEA
 
-__row 21:__ P4 TEA, P8 YEL, P4 TEA
+__row 20:__ P4 TEA, P8 YEL, P4 TEA
 
-__row 22:__ K4 TEA, K8 YEL, K4 TEA
+__row 21:__ K4 TEA, K8 YEL, K4 TEA
 
-__row 23:__ P6 TEA, P2 YEL, P2 TEA, P2 YEL, P6 TEA
+__row 22:__ P6 TEA, P2 YEL, P2 TEA, P2 YEL, P6 TEA
 
-__row 24:__ K6 TEA, K2 TEA, K2 TEA, K2 YEL, K6 TEA
+__row 23:__ K6 TEA, K2 TEA, K2 TEA, K2 YEL, K6 TEA
 
-__row 25:__ P6 TEA, P2 YEL, P2 TEA, P2 YEL, P6 TEA
+__row 24:__ P6 TEA, P2 YEL, P2 TEA, P2 YEL, P6 TEA
 
-__row 26 - 29:__ K18 TEA; continue to work up as stockinette
+__row 25 - 28:__ K18 TEA; continue to work up as stockinette
 
-__row 30:__ cast off!
+Cast off!
 
 
 
@@ -206,13 +213,11 @@ __row 30:__ cast off!
 
 For this, we'll use the heathered teal color only.
 
-We'll need two finished pieces of the following:
+CO 18
 
-__row 1:__ CO 18
+__row 1 - 31:__ Work up as stockinette.
 
-__row 2 - 32:__ Work up as stockenette.
-
-__row 33:__ cast off!
+Cast off!
 
 
 ## Legs
@@ -221,11 +226,12 @@ For this, we'll use the heathered dark green color only.
 
 We'll need two finished pieces of the following:
 
-__row 1:__ Using the dpn needles, CO 9
+Using the dpn needles, CO 9
 
-__rows 2 - 22:__ K in the round
+__rows 1 - 21:__ K in the round
 
-__row 23:__ cast off!
+Cast off!
+
 
 ## Feet - Tops and Bottoms
 
@@ -233,11 +239,11 @@ For this, we'll use the heathered teal color only.
 
 We'll need four finished pieces of the following:
 
-__row :__ CO 10
+CO 10
 
-__rows 2 - 16 :__ Work up as stockinette.
+__rows 1 - 15:__ Work up as stockinette.
 
-__row 17:__ cast off!
+Cast off!
 
 
 ## Feet - Sides
@@ -246,11 +252,11 @@ For this, we'll use the heathered dark green color only.
 
 We'll need two finished pieces of the following:
 
-__row 1:__ CO 32
+CO 32
 
-__rows 2 - 6:__ Work up as stockinette.
+__rows 1 - 5:__ Work up as stockinette.
 
-__row 7:__ cast off!
+Cast off!
 
 
 
